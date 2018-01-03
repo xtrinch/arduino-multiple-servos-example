@@ -1,6 +1,6 @@
 # arduino-multiple-servos-example
 
-Example with three SG90 hobby servo motors, all controlled with one potentiometer. PWM inputs of motors connected to pin 3, 5, 6.
+Example with three SG90 hobby servo motors, all controlled with one potentiometer. PWM outputs to motors connected to pin 3, 5, 6.
 
 How the motors should be controlled:
 
